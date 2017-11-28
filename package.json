@@ -1,5 +1,5 @@
 {
-  "name": "nodemailer-cli",
+  "name": "nodemailer-cli-latest",
   "version": "2.2.0",
   "description": "A command line interface for sending email, wrapped around nodemailer.",
   "main": "index.js",
