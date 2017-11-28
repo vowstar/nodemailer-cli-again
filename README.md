@@ -12,7 +12,7 @@ Install the module globally to expose the `nodemailer` command to your
 environment.
 
 ```bash
-npm install -g nodemailer-cli
+npm install -g nodemailer-cli-latest
 ```
 
 ## Usage
@@ -59,6 +59,10 @@ defaults.
 
 
 ## History
+
+- **v2.2.0**
+    - fixed README issues
+
 
 - **v2.2.0**
     - Updated non-dev npm dependencies

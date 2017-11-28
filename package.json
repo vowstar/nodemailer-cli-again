@@ -1,6 +1,6 @@
 {
   "name": "nodemailer-cli-latest",
-  "version": "2.2.1",
+  "version": "2.2.3",
   "description": "A command line interface for sending email, wrapped around nodemailer.",
   "main": "index.js",
   "preferGlobal": true,
@@ -26,7 +26,8 @@
     "mail",
     "relay",
     "nodemailer",
-    "latest"
+    "latest",
+    "cli"
   ],
   "author": "Nathan Wittstock <nate@milkandtang.com>",
   "license": "MIT",
