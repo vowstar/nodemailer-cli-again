@@ -62,6 +62,10 @@ defaults.
 
 ## History
 
+- **v2.2.0**
+    - Updated non-dev npm dependencies
+
+
 - **v2.1.1**
     - Updates nodemailer dependency — _[@mistralol][]_
     - Moves devDependencies out of dependencies — _[@fardog][]_
