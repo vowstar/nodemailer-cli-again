@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/fardog/nodemailer-cli.svg?branch=master)](https://travis-ci.org/fardog/nodemailer-cli) [![Dependency Status](https://gemnasium.com/fardog/nodemailer-cli.svg)](https://gemnasium.com/fardog/nodemailer-cli)
 
-This project has been forked from the original nodemailer-cli and updated to latest NPM npackages.
+**This project has been forked from the original nodemailer-cli and updated to latest NPM npackages.**
 [original project](https://github.com/fardog/nodemailer-cli)
 
 A command line interface for sending email, wrapped
