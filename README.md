@@ -60,7 +60,7 @@ defaults.
 
 ## History
 
-- **v2.2.0**
+- **v2.2.4**
     - fixed README issues
 
 
