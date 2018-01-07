@@ -60,6 +60,12 @@ defaults.
 
 ## History
 
+
+- **v2.2.6**
+    - Updated base nodemailer to 4.4.1
+    - Updated ALL dev dependencies to latest available from npm-dview
+
+
 - **v2.2.4**
     - fixed README issues
 
