@@ -60,6 +60,10 @@ defaults.
 
 ## History
 
+- **v2.2.8**
+    - Fixed chalk not using `chalk.default` in `/bin/nodemailer.js`
+
+
 - **v2.2.7**
     - Updated base nodemailer to 4.6.0
     - Minor changes
