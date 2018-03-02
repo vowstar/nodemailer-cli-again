@@ -60,6 +60,10 @@ defaults.
 
 ## History
 
+- **v2.2.7**
+    - Updated base nodemailer to 4.6.0
+    - Minor changes
+
 
 - **v2.2.6**
     - Updated base nodemailer to 4.4.1
