@@ -2,7 +2,7 @@
 
 var fs = require('fs');
 var chalk = require('chalk').default;
-var error = chalk.bold.red;
+var error = chalk.red.bold;
 var Cli = require('../lib/cli.js');
 
 var cli = new Cli().parse(process.argv.slice(2), function (err, message, options) {
