@@ -59,7 +59,7 @@ describe('cli', function() {
   it('should error when no subject or body are set', function() {
     var argv = ['you@email.com', 'me@email.com'];
     var cli = new Cli().parse(argv);
-    
+
     cli.errors.should.have.length(1);
   });
   it('should allow missing body when subject is set', function() {
