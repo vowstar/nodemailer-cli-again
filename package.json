@@ -1,5 +1,5 @@
 {
-  "name": "nodemailer-cli-latest",
+  "name": "nodemailer-cli-again",
   "version": "2.2.8",
   "description": "A command line interface for sending email, wrapped around nodemailer.",
   "main": "index.js",
@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LilithTundrus/nodemailer-cli-latest"
+    "url": "https://github.com/vowstar/nodemailer-cli-again"
   },
   "bugs": {
-    "url": "https://github.com/LilithTundrus/nodemailer-cli-latest/issues"
+    "url": "https://github.com/vowstar/nodemailer-cli-again/issues"
   },
-  "homepage": "https://github.com/LilithTundrus/nodemailer-cli-latest",
+  "homepage": "https://github.com/vowstar/nodemailer-cli-again",
   "engines": {
     "node": ">=6.0.0"
   },
