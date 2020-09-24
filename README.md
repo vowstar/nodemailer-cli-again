@@ -1,5 +1,9 @@
 # nodemailer-cli
 
+[![NPM Version](https://img.shields.io/npm/v/nodemailer-cli-again.svg?style=flat)](https://www.npmjs.org/package/nodemailer-cli-again)
+[![Build Status](https://img.shields.io/travis/vowstar/nodemailer-cli-again/master.svg?style=flat)](https://travis-ci.org/vowstar/nodemailer-cli-again)
+[![NPM Downloads](https://img.shields.io/npm/dm/nodemailer-cli-again.svg?style=flat)](https://www.npmjs.org/package/nodemailer-cli-again)
+
 **This project has been forked from the original nodemailer-cli and updated to latest NPM npackages.**
 [original project](https://github.com/fardog/nodemailer-cli)
 
