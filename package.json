@@ -1,5 +1,5 @@
 {
-  "name": "nodemailer-cli-again",
+  "name": "nodemailer-cli-ng",
   "version": "3.0.1",
   "description": "A command line interface for sending email, wrapped around nodemailer.",
   "main": "index.js",
@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vowstar/nodemailer-cli-again"
+    "url": "https://github.com/vowstar/nodemailer-cli-ng"
   },
   "bugs": {
-    "url": "https://github.com/vowstar/nodemailer-cli-again/issues"
+    "url": "https://github.com/vowstar/nodemailer-cli-ng/issues"
   },
-  "homepage": "https://github.com/vowstar/nodemailer-cli-again",
+  "homepage": "https://github.com/vowstar/nodemailer-cli-ng",
   "engines": {
     "node": ">=6.0.0"
   },
