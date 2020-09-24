@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 var fs = require('fs');
-var chalk = require('chalk').default;
+var chalk = require('chalk');
 var error = chalk.red.bold;
 var Cli = require('../lib/cli.js');
 
