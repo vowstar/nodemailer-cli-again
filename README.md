@@ -33,6 +33,9 @@ Options:
    -s, --server     The SMTP server that mail will be delivered to.
    -r, --port       The port to use when contacting the SMTP server.
    -n, --nossl      If set, SSL will not be used when sending mail.
+   -N, --notls      If set, STARTLS will not be used when sending mail.
+   -x, --proxy      If set, a http or socks5/socks4 proxy will be used when sending mail.
+   -i, --ignorecert If set, The TLS certification will not be validated.
    -j, --subject    The string to be used as the email's subject.
    --cc             An email address to Carbon Copy. List multiple recipients by appending multiple --cc parameters.
    --bcc            An email address to Blind Carbon Copy. List multiple recipients by appending multiple -bcc parameters.

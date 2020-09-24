@@ -123,5 +123,19 @@ describe('cli', function() {
 
     var icli = new Cli().parse(invalid);
     icli.errors.should.have.length(1);
-  })
+  });
+  it('should parse proxy options correctly', function() {
+    var argv = ['--proxy', 'http://proxy-host:1234', 'you@email.com', 'me@email.com', 'some text', '--port', '256'];
+    var cli = new Cli().parse(argv);
+    cli.errors.should.have.length(0);
+
+    cli.parsedOptions.proxy.should.equal('http://proxy-host:1234');
+  });
+  it('should show error when proxy format not correctly', function() {
+    var argv = ['--proxy', 'proxy-host:1234', 'you@email.com', 'me@email.com', 'some text', '--port', '256'];
+    var cli = new Cli().parse(argv);
+    cli.errors.should.have.length(1);
+
+    cli.parsedOptions.proxy.should.equal('proxy-host:1234');
+  });
 });
