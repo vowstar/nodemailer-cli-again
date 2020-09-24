@@ -16,7 +16,7 @@ Install the module globally to expose the `nodemailer` command to your
 environment.
 
 ``` bash
-npm install -g nodemailer-cli-latest
+npm install -g nodemailer-cli-ng
 ```
 
 ## Usage
