@@ -32,21 +32,21 @@
   "author": "Nathan Wittstock <nate@milkandtang.com>, Lilith Tundrus <echofox123@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "chalk": "^2.3.1",
-    "isemail": "^3.1.1",
-    "minimist": "^1.2.0",
-    "nodemailer": "^4.6.0",
+    "chalk": "^4.1.0",
+    "isemail": "^3.2.0",
+    "minimist": "^1.2.5",
+    "nodemailer": "^6.4.11",
     "nodemailer-smtp-transport": "^2.7.4"
   },
   "devDependencies": {
-    "gulp": "^3.8.7",
+    "gulp": "^4.0.2",
     "gulp-jshint": "^2.1.0",
-    "gulp-load-plugins": "^1.4.0",
-    "gulp-mocha": "^5.0.0",
-    "jshint": "^2.9.4",
+    "gulp-load-plugins": "^2.0.4",
+    "gulp-mocha": "^7.0.2",
+    "jshint": "^2.12.0",
     "jshint-stylish": "^2.2.1",
-    "mocha": "^5.0.1",
+    "mocha": "^8.1.3",
     "nodemailer-stub-transport": "^1.1.0",
-    "should": "^13.2.1"
+    "should": "^13.2.3"
   }
 }
